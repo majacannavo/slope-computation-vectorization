@@ -1,2 +1,2 @@
 # slope-computation-vectorization
-This tool performs slope computation, classification, and vectorization for a set of one or more DEMs.
+This QGIS Processing script performs slope computation, classification, and vectorization for a set of one or more DEMs.
